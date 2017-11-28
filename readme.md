@@ -11,7 +11,7 @@
 
 
 ### Steps To Follow
-1) Clone the Github directory.
+1) Clone the Github repository.
 1) `cd` into the directory you just cloned.
 1) Checkout into a branch with your name.
 1) Open the directory in sublime using `subl .`
